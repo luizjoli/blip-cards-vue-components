@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   push:
-    branches-ignore: "/^v\\d+\\.\\d+\\.\\d+$/"
+    #branches-ignore: "/^v\\d+\\.\\d+\\.\\d+$/"
   pull_request:
     branches: [ master ]
 
