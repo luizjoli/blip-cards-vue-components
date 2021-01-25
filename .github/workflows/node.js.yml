@@ -36,4 +36,4 @@ jobs:
     - run: npm run lint
     - run: npm run bundle:min   
     - run: npm run semantic-release
-# Comentario
+# Comentario 2
